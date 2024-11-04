@@ -1,68 +1,63 @@
 
-![Logo](https://github.com/RTieppo/SIGERE_NEW/blob/main/authenticator/static/img/sigere_logo_png.png)
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-O SIGeRE (Sistema Integrado de Gestão de Recursos Educacionais) é uma plataforma simplificada desenvolvida para otimizar a gestão de recursos educacionais em instituições de ensino. O sistema abrange diversos módulos para atender às necessidades administrativas e operacionais, proporcionando maior eficiência e controle.
 
-## Módulos do Sigere
+# SIGeRE
 
-### 1. Controle de Reservas de Sala
-Gerencie o agendamento e a reserva de salas de aula e outros espaços dentro da instituição, garantindo a disponibilidade e evitando conflitos de horários.
+O SIGeRE (Sistema Integrado de Gestão de Recursos Educacionais) é uma plataforma proprietary, desenvolvida para otimizar a gestão de recursos educacionais em instituições de ensino. O sistema abrange diversos módulos para atender às necessidades administrativas e operacionais, proporcionando maior eficiência e controle.
 
-### 2. Lançamento de Horas de Professores
-Facilite o registro e acompanhamento das horas trabalhadas pelos professores, permitindo a geração de relatórios detalhados e o cálculo de adicional noturno conforme o ponto registrado.
 
-### 3. Reserva de Auditório e Equipamentos
-Gerencie as reservas de auditórios, notebooks e outros equipamentos, assegurando que esses recursos estejam disponíveis e devidamente alocados conforme a demanda.
+## Roadmap
 
-### 4. Solicitações de Serviço
-Integre solicitações de serviços para TI, marketing, logística e transporte, permitindo um controle centralizado e eficiente das demandas internas da instituição.
+**Etapa 1:** Sendo desenvolvida
 
-### 5. Financeiro e Controle de Estoque
-Inclui um módulo financeiro para a gestão de recursos, controle de estoque e controle interno de patrimônio, assegurando uma administração financeira organizada e eficiente.
+    - Controle e reservas de ambiente
 
-### 6. Recursos Humanos (RH)
-Oferece funcionalidades para a gestão de solicitações de vale-transporte e outros benefícios, facilitando a comunicação entre colaboradores e o departamento de RH.
+    - Sistema de Totem Informativo
 
-### 7. Módulo Professor
-Disponibiliza ferramentas para que os professores consultem e lancem suas horas trabalhadas, além de acessar informações relacionadas a adicionais noturnos e outros dados relevantes.
+**Etapa 2:**
 
-### 8. Módulo Aluno
-Proporciona aos alunos a possibilidade de consultar horários de aula, avisos e outras informações importantes através de um sistema de fácil acesso.
+    - Lançamento de Horas de Professores
 
-### 9. Sistema de Totem Informativo
-Implemente totens informativos espalhados pela instituição, onde os alunos podem acessar rapidamente informações sobre suas aulas, avisos e outros comunicados relevantes.
-## Status dos Módulos
+**Etapa 3:**
+    
+    - Módulo Aluno
+    - Solicitação de Equipamentos
 
-### Módulos em Execução
-- Controle de Reservas de Sala
-- Lançamento de Horas de Professores
-- Reserva de Auditório
-- Sistema de Totem Informativo
+**Etapa 4:**
+    
+    - Solicitações de Serviço
+    - Módulo Professor
+    
+**Etapa 5:**
+    
+    - Financeiro
+    - Controle de Estoque
+    
+**Etapa 6:**
+    
+    - Recursos Humanos (RH)
 
-### Módulos em Desenvolvimento
-- Equipamentos
-- Solicitações de Serviço
-- Financeiro e Controle de Estoque
+## Stack utilizada
 
-### Módulos em Planejamento
-- Recursos Humanos (RH)
-- Módulo Professor
-- Módulo Aluno
-## Documentação
+**Front-end:** React, Bootstrap, Chart.js
 
-Documentação disponíveis em breve.
-## Instalação
+**Back-end:** Python, Django, Django REST Framework, PostgreSQL
 
-Instruções detalhadas sobre como instalar e configurar o SIGeRE estarão disponíveis em breve.
-## Autores
+## Developers
 
-- [@RTieppo](https://www.github.com/RTieppo)
-- [@jmisturini](https://www.github.com/jmisturini)
+**Front-end:** Não definido
 
+**Back-end:** [@RTieppo](https://www.github.com/RTieppo)
+
+**Gestor de rede:** [@jmisturini](https://www.github.com/jmisturini)
+
+**Consultor:** Não definido
 
 
 ## Usado por
 
 Esse projeto é usado pelas seguintes empresas:
 
-- Faculdade Senac Florianópolis
+- Faculdade Senac Florianópolis 
+
