@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![sigere_logo_png](https://github.com/user-attachments/assets/3e3fdbf8-eb54-4b2d-874e-431c59a83db2)
 
 
 # SIGeRE
