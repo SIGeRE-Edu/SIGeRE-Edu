@@ -46,7 +46,7 @@ O SIGeRE (Sistema Integrado de Gestão de Recursos Educacionais) é uma platafor
 
 ## Developers
 
-**Front-end:** Não definido
+**Front-end:** [@JuliaYuki](https://github.com/JuliaYuki)
 
 **Back-end:** [@RTieppo](https://www.github.com/RTieppo)
 
